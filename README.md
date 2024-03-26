@@ -58,7 +58,7 @@ This is a layout of the design process including user stories, features, and req
 
 <p align="center">
     <a href="" rel="noopener">
-    <img width=150px height=135px src="assets/app_demo.gif" alt="Project mockup"></a>
+    <img width=200px height=175px src="assets/app_demo.gif" alt="Project mockup"></a>
 </p>
 
 ## 🎈 Usage <a name="usage"></a>
